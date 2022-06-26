@@ -113,7 +113,7 @@ import { environment } from '../../environments/environment';
       desc: 'An app with the purpose of helping peoples to apply for documents documents online, driving licences...',
       livedemo: 'https://www.getdocumentonline.com/',
       githurl: '#',
-      imgUrl: 'assets/images/z9.png',
+      imgUrl: 'assets/images/getdocument.png',
       tech: 'WordPress, HTML, CSS, JavaScript'
     },
 
